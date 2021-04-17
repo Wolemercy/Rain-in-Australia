@@ -1,5 +1,5 @@
 # Rain-in-Australia
-Using a Kaggle dataset, the goal was to predict whether there would be rainfall the next day.
+Using a Kaggle dataset, the goal was to predict whether there would be rainfall in Australia the next day.
 
 The code was written in python and it employed libraries such as pandas, numpy, scikit-learn, matplotlib, and more.
 
